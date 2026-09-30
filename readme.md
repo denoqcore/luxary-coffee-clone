@@ -1,3 +1,11 @@
+- **This project is a recreation of an existing website created for educational and portfolio purposes. It is not affiliated with the original brand or website**
+
+## UI Preview
+
+<p align="center">
+ <img src="./src/public/images/cover-luxary-coffee.jpg" width="900" alt="Preview">
+</p>
+
 # Simple Project Template PHP
 
 ## The project contains:
