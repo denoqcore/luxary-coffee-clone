@@ -1,0 +1,15 @@
+{
+    "name": "denisbekcev/luxary-coffee",
+    "autoload": {
+        "psr-4": {
+            "Denisbekcev\\LuxaryCoffee\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Denis Beccev",
+            "email": "edisondts1@gmail.com"
+        }
+    ],
+    "require": {}
+}
